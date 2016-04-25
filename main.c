@@ -37,9 +37,7 @@ printf("\n Enter the following... ");
     printf("\nEnter the price");
     scanf("%f", &_price);
 
-printf("Elements of the shop. \n========================================\n1.Title: %s. \n2.Artist : %s.\n3.Number of tracks: %d\n",_title,_artist,_numOfTracks);
-printf("This is a type : %s. It cost's %.2f $.\n===========================================",_type,_price);
-}
+
 
 
 
